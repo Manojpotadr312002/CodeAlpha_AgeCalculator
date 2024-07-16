@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+body
+{
+    background: linear-gradient(to left, #000066 0%, #ffffff 100%);	
+}
+
+.main
+{
+	height:70px;
+	width:260px;
+	background-color:transparent;
+	border-radius:8px;
+	text-align:center;
+	border:solid black 2px;
+	margin-left:700px;
+}
+
+.btn
+{
+	color:red;
+}
+
